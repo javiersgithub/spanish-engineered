@@ -4,7 +4,7 @@ Aquí se intenta dar un punto de vista ingenieril al uso de lenguages. Desde el 
 
 ## Componentes de la comunicación
 
-La Real Academia Española (RAE) define[0] la comunicación como `la transmisión de señales mediante un código común al emisor y al receptor`. Se identifican 3 elementos: el emisor, el receptor y la señal. Adicionalmente también esta el canal o medio encargado de transmitir esas señales, pero el foco se centrará en la señal como tal, que en este caso será el español.
+La Real Academia Española (RAE) [define la comunicación](https://dle.rae.es/comunicaci%C3%B3n) como `la transmisión de señales mediante un código común al emisor y al receptor`. Se identifican 3 elementos: el emisor, el receptor y la señal. Adicionalmente también esta el canal o medio encargado de transmitir esas señales, pero el foco se centrará en la señal como tal, que en este caso será el español.
 
 Indistintamente de que la comunicación sea digital o analógica; entre elementos electrónicos o entre personas; los elementos anteriormente mencionados están presentes:
 * Emisor: el generador de ondas de televisión o la persona hablante
@@ -30,5 +30,3 @@ Un mismo mensaje solo puede ser codificado de una sola forma. Esto queda explica
 ### Modificado palabras
 
 * `ue` -> `o`
-
-[0](https://dle.rae.es/comunicaci%C3%B3n)
