@@ -1,6 +1,6 @@
 # Español injenierizado
 
-Aquí se intenta dar un punto de vista ingenieril al uso de lenguages. Desde el punto de vista tanto lisgüistico como ingenieril, la comunicación se asienta en principios relacionados, si no los mismos. En varias secciones se irán proponiendo una serie de cambios sobre el idioma español.
+Aquí se intenta dar un punto de vista ingenieril al uso del lenguage en la comunicación entre personas. Desde el punto de vista tanto lisgüistico como ingenieril, la comunicación se asienta en principios relacionados, si no los mismos. En varias secciones se irán proponiendo una serie de cambios sobre el idioma español.
 
 ## Componentes de la comunicación
 
@@ -8,15 +8,15 @@ La Real Academia Española (RAE) [define la comunicación](https://dle.rae.es/co
 
 Indistintamente de que la comunicación sea digital o analógica; entre elementos electrónicos o entre personas; los elementos anteriormente mencionados están presentes:
 * Emisor: el generador de ondas de televisión o la persona hablante
-* Canal: el espéctro electromagnético o el aire en comunicación oral (papel en escrita, visual en gesticular, etc...)
+* Canal: el espectro electromagnético o el aire en comunicación oral (papel en escrita, visual en gesticular, etc...)
 * Receptor: el sintonizador de televisión o la persona oyente
-* Señal: la codificación de la imagen o el idioma como conjuto de sonidos usado (o simbolos en caso de escrito)
+* Señal: la codificación de la imagen o el idioma como conjunto de sonidos usados (o simbolos en caso de escrito)
 
-A lo largo de los capitulos se hará un simil la comunicación entre personas como si fueran dispositivos y hubiese que diseñar las señales que ambos usaran para transmitirse información.
+A lo largo de varias secciones se hará un simil como si la comunicación entre personas como si fueran dispositivos y hubiese que diseñar las señales que ambos usarán para transmitirse información.
 
 ## Características deseables
 
-Un mismo mensaje solo puede ser codificado de una sola forma. Esto queda explicado mas coloquialmente como `se pronuncia como se escribe`. Para este apartudo un buen método de medir es cómo de probable es que alguien que no este familiarizado con una palabra, o incluso con el idioma, cometa un error al escribirla despues de escucharla.
+Un mismo mensaje sólo puede ser codificado de una sola forma. Esto queda explicado mas coloquialmente como `se pronuncia como se escribe`. Para este apartado, una buena métrica es cómo de probable es que alguien que no este familiarizado con una palabra, o incluso con el idioma, cometa un error al escribirla despues de escucharla.
 
 ## Reglas hacia la ingenierización
 
@@ -26,7 +26,17 @@ Un mismo mensaje solo puede ser codificado de una sola forma. Esto queda explica
 * `q`
 * `g`
 * `h`
+* `ll`
+* `ch`
+
+### Símbolos de puntuación
+
+* `´`
 
 ### Modificado palabras
 
 * `ue` -> `o`
+
+### Españolizando palabras
+
+* `deletear`
