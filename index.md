@@ -20,6 +20,8 @@ Un mismo mensaje sólo puede ser codificado de una sola forma. Esto queda explic
 
 ## Reglas hacia la ingenierización
 
+En general todas estas reglas pueden interpretarse como una, o muchas; patadas al diccionario; si es deliberado. Cuando hay una excepción se confirma la regla, cuando hay varias son solo parches escondiendo un defecto.
+
 ### Manteniendo los sonidos
 
 * `c`
